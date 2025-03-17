@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **backend development projects**
 
-- 📫 How to reach me **christopherchristain2001@gmail.com**
-
 - ⚡ Fun fact **Am a good communicator**
 
 <h3 align="left">Connect with me:</h3>
